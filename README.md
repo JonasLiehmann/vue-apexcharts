@@ -11,7 +11,13 @@
 </p>
 
 <p align="center">Vue.js wrapper for <a href="https://github.com/apexcharts/apexcharts.js">ApexCharts</a> to build interactive visualizations in vue.</p>
-
+<br />
+<hr />
+<p align="center">Forked Changes:</p>
+<p align="center">Removed "example" folder which modified the whole project.</p>
+<hr />
+<br />
+___
 <p align="center"><a href="https://apexcharts.com/javascript-chart-demos/"><img src="https://apexcharts.com/media/apexcharts-banner.png"></a></p>
 
 
