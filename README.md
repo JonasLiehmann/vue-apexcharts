@@ -17,7 +17,7 @@
 <p align="center">Removed "example" folder which modified the whole project.</p>
 <hr />
 <br />
-___
+
 <p align="center"><a href="https://apexcharts.com/javascript-chart-demos/"><img src="https://apexcharts.com/media/apexcharts-banner.png"></a></p>
 
 
