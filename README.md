@@ -27,7 +27,7 @@
 
 ```bash
 npm install --save apexcharts
-npm install --save vue-apexcharts
+npm install --save https://github.com/JonasLiehmann/vue-apexcharts
 ```
 
 ## Usage
